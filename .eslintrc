@@ -1,0 +1,42 @@
+{
+  "parser": "@babel/eslint-parser",
+  "plugins": [
+    "react",
+    "import"
+  ],
+  "rules": {
+    "quotes": [
+      "off"
+    ],
+    "no-undef": [
+      "off"
+    ],
+    "semi": [
+      "off"
+    ],
+    "import/newline-after-import": [
+      "warn",
+      {
+        "count": 1
+      }
+    ],
+    "no-use-before-define": "warn",
+    "no-useless-concat": "warn",
+    "react/prop-types": "off",
+    "react/js-filename-extension": "off",
+    "camelcase": [
+      "off"
+    ],
+    "no-confusing-arrow": "warn",
+    "object-curly-spacing": [
+      "warn",
+      "always"
+    ],
+    "brace-style": "warn",
+    "eqeqeq": [
+      "warn",
+      "smart"
+    ],
+    "requireConfigFile": 0
+  }
+}

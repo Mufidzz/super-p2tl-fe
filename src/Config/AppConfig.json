@@ -1,0 +1,17 @@
+{
+    "auth0" : {
+        "domain": "dev-mbcabt-i.us.auth0.com",
+        "clientID": "UyHKnxhlfKamBsC2F1OGRi90bpHwqxGa",
+        "redirectUri": "http://localhost:3000/callback"
+        },
+    "firebase" : {
+        "apiKey": "AIzaSyA1RPD4ZzDoRA1mCKzhvdU1nwOt6ek0S_w",
+        "authDomain": "viho-react.firebaseapp.com",
+        "projectId": "viho-react",
+        "storageBucket": "viho-react.appspot.com",
+        "messagingSenderId": "725210020776",
+        "appId": "1:725210020776:web:ca7a2763663f6cf5d7bb9d",
+        "measurementId": "G-34RHCELM9W"
+    },
+    "jwt_token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvaG4iLCJwYXNzd29yZCI6IjEyMzQ1NiJ9.vPN0PhthyTuf9l3912NksmpzHXvWjZ7Nywhe22GK2zI"
+}
